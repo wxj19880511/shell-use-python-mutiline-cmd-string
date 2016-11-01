@@ -20,8 +20,8 @@
 to 
 ```json
 {
-  "f1":"v1",
-  "f2":"v2"
+  "project_name":"MSS17",
+  "revision":"1576",
 }
 ```
 - conver test2.json data format, tempararily name the new json file as tset2_new.json, for example
